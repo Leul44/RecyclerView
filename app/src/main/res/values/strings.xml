@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">RecyclerViews</string>
+
+    <string-array name="PL">
+        <item>Html</item>
+        <item>Java</item>
+        <item>JSP</item>
+        <item>PHP</item>
+        <item>Python</item>
+        <item>SQL</item>
+        <item>Rube</item>
+        <item>Swift</item>
+        <item>TypeScript</item>
+        <item>C++</item>
+
+    </string-array>
+    <string-array name="desp">
+        <item>This is Description</item>
+        <item>This is Description</item>
+        <item>This is Description</item>
+        <item>This is Description</item>
+        <item>This is Description</item>
+        <item>This is Description</item>
+        <item>This is Description</item>
+        <item>This is Description</item>
+        <item>This is Description</item>
+        <item>This is Description</item>
+    </string-array>
+</resources>
